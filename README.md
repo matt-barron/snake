@@ -1,2 +1,2 @@
-# things
-This is where im putting random projects
+# Sanke in Terminal
+
